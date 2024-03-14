@@ -1,0 +1,3 @@
+wolfram.txt                 contains all page names from Wolfram MathWorld
+wolfram_to_wikidata.txt     contains mappings from Wolfram to Wikidata using wikimapper
+wikidata_to_wolfram.txt     contains all Wikidata entries that have a MathWorld property
